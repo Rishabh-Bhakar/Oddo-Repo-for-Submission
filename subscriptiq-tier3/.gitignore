@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.*
+!.env.example
+dist/
+*.log
+
+# Local SQLite database files
+data/*.db
+data/*.db-shm
+data/*.db-wal
